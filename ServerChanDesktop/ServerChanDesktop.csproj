@@ -20,9 +20,11 @@
     <SelfContained>true</SelfContained>
     <RuntimeIdentifier>win-x64</RuntimeIdentifier>
     <IncludeNativeLibrariesForSelfExtract>true</IncludeNativeLibrariesForSelfExtract>
+    <DefaultItemExcludes>$(DefaultItemExcludes);obj*\**</DefaultItemExcludes>
   </PropertyGroup>
   <ItemGroup>
     <Compile Remove="obj\**\*.cs" />
+    <Compile Remove="obj*\**\*.cs" />
     <Compile Remove="obj-server3\**\*.cs" />
   </ItemGroup>
   <ItemGroup>
