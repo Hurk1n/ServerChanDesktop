@@ -1,7 +1,7 @@
 # ServerChanDesktop
 
 一个基于 WPF 的 Windows 桌面收件箱客户端，用来读取 Server3 的消息列表，并以本地桌面应用的形式查看、筛选和管理消息。
-
+Server3官网https://sc3.ft07.com/sendkey
 ## 功能
 
 - 使用 `SendKey` 登录收件箱
