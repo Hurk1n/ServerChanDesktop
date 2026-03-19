@@ -1,0 +1,23 @@
+# Local app state
+state.json
+*.user
+*.suo
+
+# Build outputs
+bin/
+obj/
+obj-*/
+publish*/
+build-tmp/
+build-nuget/
+
+# Packages and generated binaries
+*.exe
+*.zip
+*.apk
+*.pdb
+
+# IDE
+.vs/
+.vscode/
+.idea/
