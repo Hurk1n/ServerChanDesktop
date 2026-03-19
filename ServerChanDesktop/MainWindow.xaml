@@ -4,7 +4,7 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         mc:Ignorable="d"
-        Title="Hurkinの收件箱"
+        Title="ServerChanDesktop"
         Width="1440"
         Height="900"
         MinWidth="1180"
@@ -215,7 +215,7 @@
                                 HorizontalAlignment="Center">
                         <TextBlock FontSize="17"
                                    FontWeight="SemiBold"
-                                   Text="Hurkinの收件箱" />
+                                   Text="ServerChanDesktop" />
                         <TextBlock x:Name="HeaderQuoteTextBlock"
                                    Margin="0,3,0,0"
                                    Foreground="#8A243447"
